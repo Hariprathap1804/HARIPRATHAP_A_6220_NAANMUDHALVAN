@@ -6,7 +6,7 @@
 
 #USERNAME: admin
 
-#Password:admin123
+#Password: admin123
 
 #Project Running steps:
 
