@@ -1,17 +1,17 @@
 # HARIPRATHAP_A_6220_NANMUDHALVAN
  
-#PROJECT CREATED BY: HARIPRATHAP A
+# PROJECT CREATED BY: HARIPRATHAP A
 
-#LOGIN DETAILS:
+# LOGIN DETAILS:
 
-#USERNAME: admin
+USERNAME: admin
 
-#Password: admin123
+Password: admin123
 
-#Project Running steps:
+# Project Running steps:
 
-#python manage.py makemigrations
+python manage.py makemigrations
 
-#python manage.py migrate
+python manage.py migrate
 
-#python manage.py runserver
+python manage.py runserver
